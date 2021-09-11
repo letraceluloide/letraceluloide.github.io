@@ -53,6 +53,7 @@ const InfoNumero = ({contents}) =>{
                             src={parsedInfo.dropbox_pdf + "?raw=1"}
                             width="640"
                             height="590"
+                            title={"Número " + parsedInfo.numero}
                             onLoad={() => handleLoading()}></iframe>
             </Modal>
           </>

@@ -14,6 +14,6 @@ function Imagen_numero({children, num, hover, size}) {
                         {children}
                     </div>);
     return (hover === false)? <>{content} </>
-                          : <Link href={`/numero/${encodeURIComponent(num)}`}><a>{content}</a></Link>
+                          : <Link href={`/numero/${encodeURIComponent(num)}`}><a aria-label={num}>{content}</a></Link>
 }
 export default Imagen_numero;

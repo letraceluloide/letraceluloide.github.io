@@ -21,7 +21,7 @@ const Footer = () => {
                                 "Escribí",
                                 <>
                                 <div>
-                                    <img src={"/img/escribi.png"}></img>
+                                    <img src={"/img/escribi.png"} alt="Escribi en Letraceluloide"></img>
                                     <p>Si te interesa publicar en Letraceluloide, envianos un correo a letraceluloide.referato@gmail.com</p>
                                 </div>
                                 </>
