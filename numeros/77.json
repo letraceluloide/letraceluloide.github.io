@@ -1,0 +1,42 @@
+{
+  "numero": "77",
+  "fecha":"Agosto 2021",
+  "dropbox_pdf":"https://www.dropbox.com/s/gj4x5vrivwfefhk/N%C3%BAmero%2077%20-%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Y te sigo por el aire como una brizna de hierba",
+    "autor": "Isabel Abellán Chuecos",
+    "pagina": 4,
+    "pelicula": "La novia (2015)",
+    "especial": ""
+  },
+  {
+    "articulo": "La odisea de un hombre en crisis",
+    "autor": "Emiliano Aguilar",
+    "pagina": 9,
+    "pelicula": "El diablo sobre ruedas (1971)",
+    "especial": ""
+  },
+  {
+    "articulo": "Lonely Hearts City",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 13,
+    "pelicula": "La golfa (1931)",
+    "especial": ""
+  },
+  {
+    "articulo": "Desire and the City",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 18,
+    "pelicula": "Scarlet Street (1945)",
+    "especial": ""
+  },
+  {
+    "articulo": "Más allá del peplum",
+    "autor": "Julio Neveleff",
+    "pagina": 24,
+    "pelicula": "Ulises (1954)",
+    "especial": ""
+  }
+]
+}
