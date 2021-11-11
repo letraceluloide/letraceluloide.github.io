@@ -1,0 +1,42 @@
+{
+  "numero": "78",
+  "fecha":"Octubre 2021",
+  "dropbox_pdf": "https://www.dropbox.com/s/e27hwvf7lz1wgft/N%C3%BAmero%2078%20-%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Dulces sueños… siempre",
+    "autor": "Richard Aiello",
+    "pagina": 4,
+    "pelicula": "Felices Sueños (2016)",
+    "especial": ""
+  },
+  {
+    "articulo": "Puertorriqueño, nuyorican, latinoamericano. Sobre Piñero de León Ichaso",
+    "autor": "Victor Conenna",
+    "pagina": 8,
+    "pelicula": "Piñero (2001)",
+    "especial": ""
+  },
+  {
+    "articulo": "El policial exótico",
+    "autor": "Franco Denápole",
+    "pagina": 12,
+    "pelicula": "Agatha Christie's Poirot (1981)",
+    "especial": ""
+  },
+  {
+    "articulo": "El honor a espadazo limpio",
+    "autor": "Mex Faliero",
+    "pagina": 16,
+    "pelicula": "Los duelistas (1977)",
+    "especial": ""
+  },
+  {
+    "articulo": "Kalevala, un poema épico insomne: de la oralidad medieval a la pantalla grande y la narrativa transmedia",
+    "autor": "Emilia Pozzoni",
+    "pagina": 20,
+    "pelicula": "Häiden vietto Karjalan runomailla (1921) y Kalewala: Tale of Sampo (2020)",
+    "especial": ""
+  }
+]
+}
