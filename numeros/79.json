@@ -1,0 +1,91 @@
+{
+  "numero": "79",
+  "fecha":"Diciembre 2021",
+  "dropbox_pdf":"https://www.dropbox.com/s/7y3m9m2n3gvxbjs/N%C3%BAmero%2079.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Tres (y todos) a la deriva del acto creativo",
+    "autor": "Richard Aiello",
+    "pagina": 6,
+    "pelicula": "Tres en la deriva del acto\ncreativo (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Fue la mano de Dios': mirar y revisitar las heridas de la adolescencia",
+    "autor": "Milagros Arla",
+    "pagina": 11,
+    "pelicula": "Fue la mano de Dios (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "La poesía cinematográfica y la película infinita",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 15,
+    "pelicula": "El libro de imagen (2018)",
+    "especial": ""
+  },
+  {
+    "articulo": "Venecia entre la vida y la muerte",
+    "autor": "Franco Denápole",
+    "pagina": 19,
+    "pelicula": "Veneciafrenia (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "La luz del cine",
+    "autor": "Mex Faliero",
+    "pagina": 23,
+    "pelicula": "Chango, la luz descubre (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Deseo, sexualidad y frontera. 'Matar a la bestia' de Agustina San Martín",
+    "autor": "Amaranta Gallego",
+    "pagina": 27,
+    "pelicula": "Matar a la bestia (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Represión y deseo en la corte imperial japonesa",
+    "autor": "Florencia Mauna y Juan M. Salandro",
+    "pagina": 31,
+    "pelicula": "The Tale of Genji (1951)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una escuela en Cerro Hueso' o el cine como escuela de vidaUna escuela en Cerro Hueso o el cine como escuela de vida",
+    "autor": "Flavia Mertehikian",
+    "pagina": 36,
+    "pelicula": "Una escuela en Cerro Hueso (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Sabor de hogar: 'Fortune Favors Lady Nikuko' de Ayumu Watanabe",
+    "autor": "Florencia Montenegro",
+    "pagina": 39,
+    "pelicula": "Fortune Favors Lady Nikuko (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Resucitar en el Noreste. En torno a 'Jesús López', de Maximiliano Schonfeld",
+    "autor": "Matías Pardini",
+    "pagina": 43,
+    "pelicula": "Jesús López (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Del webtoon a la pantalla grande: 'Shark: the beginning', la nueva apuesta del cine surcoreano",
+    "autor": "Emilia Pozzoni",
+    "pagina": 47,
+    "pelicula": "Shark: The Beginning (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un atardecer azul sobre el planeta rojo: 'Estrella Roja', de Sofía Bordenave",
+    "autor": "Ernesto Román",
+    "pagina": 51,
+    "pelicula": "Estrella roja (2021)",
+    "especial": ""
+  }
+]
+}
