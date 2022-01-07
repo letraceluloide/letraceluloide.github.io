@@ -1,7 +1,7 @@
 {
   "numero": "79",
   "fecha":"Diciembre 2021",
-  "dropbox_pdf":"https://www.dropbox.com/s/7y3m9m2n3gvxbjs/N%C3%BAmero%2079.%20Revista%20Letraceluloide.pdf",
+  "dropbox_pdf":"https://www.dropbox.com/s/4t2ayrsxddevpk3/N%C3%BAmero%2079.%20Revista%20Letraceluloide.pdf",
   "articulos": [
   {
     "articulo": "Tres (y todos) a la deriva del acto creativo",
@@ -85,6 +85,13 @@
     "autor": "Ernesto Román",
     "pagina": 51,
     "pelicula": "Estrella roja (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Escribir, mirar, construir lenguaje. Conversación con la directora Sofía Velázquez",
+    "autor": "Víctor Conenna",
+    "pagina": 57,
+    "pelicula": "Colaboración especial.",
     "especial": ""
   }
 ]
