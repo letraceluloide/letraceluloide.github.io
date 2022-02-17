@@ -32,7 +32,7 @@ const Footer = () => {
                                 <p>Director General: Víctor Conenna.</p>
                                 <p>Editor en jefe: Franco Denápole.</p>
                                 <p>Corrector: Ignacio Girala.</p>
-                                <p>Diseño web: Ignacio Casaburi</p>
+                                <p>Diseño web: Ignacio Casaburi.</p>
                                 <p>Desde Noviembre de 2007.</p>
                                 <p>Publicación bimestral de acceso libre y gratuito.</p>
                                 <p>ISSN Nº 1851-4855</p>
