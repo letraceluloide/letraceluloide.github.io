@@ -1,0 +1,56 @@
+{
+  "numero": "80",
+  "fecha":"Febrero 2022",
+  "dropbox_pdf":"https://www.dropbox.com/s/i7pvioqui1h5uum/N%C3%BAmero%2080.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Arrugas: una historia sobre la amistad",
+    "autor": "Isabel Abellán Chuecos",
+    "pagina": 4,
+    "pelicula": "Arrugas (2011)",
+    "especial": ""
+  },
+  {
+    "articulo": "Alberto Laiseca en primera persona: una mirada metaficcional de Querida, voy a comprar cigarrillos y vuelvo",
+    "autor": "Victoria Gisele Chacón Oribe",
+    "pagina": 8,
+    "pelicula": "Querida, voy a comprar cigarrillos y vuelvo (2011)",
+    "especial": ""
+  },
+  {
+    "articulo": "Almodóvar, el cocteaufago",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 13,
+    "pelicula": "La voz humana (2020)",
+    "especial": ""
+  },
+  {
+    "articulo": "Ciborgs, melancolía y ciberpunk en Ghost in The Shell",
+    "autor": "Florencia Mauna",
+    "pagina": 17,
+    "pelicula": "Ghost in the Shell (1995)",
+    "especial": ""
+  },
+  {
+    "articulo": "¿De dónde se inspira el terror?: una lectura de Historia de lo Oculto de Cristian J. Ponce",
+    "autor": "Carolina Acosta Hospitaleche",
+    "pagina": 22,
+    "pelicula": "Historia de lo oculto (2020)",
+    "especial": ""
+  },
+  {
+    "articulo": "Otros modos de contar la tragedia: Tan fuerte, tan cerca y la mirada infantil sobre el 11S",
+    "autor": "Emilia Oriana Pozzoni",
+    "pagina": 29,
+    "pelicula": "Tan fuerte y tan cerca (2011)",
+    "especial": ""
+  },
+  {
+    "articulo": "Dos miradas de Nightmare Alley, de Guillermo del Toro",
+    "autor": "Mex Faliero y Matías Philipp",
+    "pagina": 33,
+    "pelicula": "El callejón de las almas perdidas (2021)",
+    "especial": ""
+  }
+]
+}
