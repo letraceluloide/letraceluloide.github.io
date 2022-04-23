@@ -1,0 +1,49 @@
+{
+  "numero": "6",
+  "fecha":"Septiembre 2008",
+  "dropbox_pdf":"https://www.dropbox.com/s/wcj9q461xoamk33/N%C3%BAmero%206.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "El recorrido de Shrek",
+    "autor": "Mila Cañón",
+    "pagina": 5,
+    "pelicula": "Shrek (2001), Shrek 2 (2004) y Shrek tercero (2007)",
+    "especial": ""
+  },
+  {
+    "articulo": "El niño que soñó el país de los que duermen",
+    "autor": "Lucía Couso",
+    "pagina": 8,
+    "pelicula": "Little Nemo (1989)",
+    "especial": ""
+  },
+  {
+    "articulo": "Cuando adaptar es simplificar y empobrecer",
+    "autor": "Carola Hermida",
+    "pagina": 11,
+    "pelicula": "La maldición de las brujas",
+    "especial": ""
+  },
+  {
+    "articulo": "Una relectura de los cuentos infantiles",
+    "autor": "Raquel Piccio",
+    "pagina": 14,
+    "pelicula": "Los hermanos Grimm (2005)",
+    "especial": ""
+  },
+  {
+    "articulo": "Si buscan finales felices, es la película equivocada",
+    "autor": "María José Troglia",
+    "pagina": 17,
+    "pelicula": "Lemony Snicket, una serie de eventos desafortunados (2004)",
+    "especial": ""
+  },
+  {
+    "articulo": "Literatura y cine para gustar y degustar",
+    "autor": "Soledad Vitali",
+    "pagina": 20,
+    "pelicula": "Charlie y la fábrica de chocolate (2005)",
+    "especial": ""
+  }
+]
+}
