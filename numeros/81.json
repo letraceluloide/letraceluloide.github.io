@@ -1,0 +1,42 @@
+{
+  "numero": "81",
+  "fecha":"Abril 2022",
+  "dropbox_pdf":"https://www.dropbox.com/s/hopvv50z95c2wen/N%C3%BAmero%2081.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Siempre la infancia, siempre la guerra",
+    "autor": "Richard Aiello",
+    "pagina": 4,
+    "pelicula": "La infancia de Iván (1962)",
+    "especial": ""
+  },
+  {
+    "articulo": "La Baronesa Von Blixen recuerda",
+    "autor": "Adriana Beascoechea",
+    "pagina": 8,
+    "pelicula": "África mía (1985)",
+    "especial": ""
+  },
+  {
+    "articulo": "Cine, literatura, y la disputa por la atención del espectador: el caso de Peeves el poltergeist",
+    "autor": "Franco Denápole",
+    "pagina": 12,
+    "pelicula": "Harry Potter: la saga completa (2001-2011)",
+    "especial": ""
+  },
+  {
+    "articulo": "Rebeldía, motocicletas y ciencia: algunas notas sobre Akira de Katsuhiro Otomo",
+    "autor": "Florencia Montenegro",
+    "pagina": 17,
+    "pelicula": "Akira (1988)",
+    "especial": ""
+  },
+  {
+    "articulo": "Perder el honor, perder la vida",
+    "autor": "Ailín Pollio",
+    "pagina": 22,
+    "pelicula": "La leyenda del caballero verde (2021)",
+    "especial": ""
+  }
+]
+}
