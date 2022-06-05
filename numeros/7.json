@@ -1,0 +1,70 @@
+{
+  "numero": "7",
+  "fecha":"Noviembre 2008",
+  "dropbox_pdf":"https://www.dropbox.com/s/ank8sq3z2x4cpxq/N%C3%BAmero%207.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "El relato decimonónico que nunca pasa de moda",
+    "autor": "Ricardo L. Aiello",
+    "pagina": 4,
+    "pelicula": "Un corazón simple (2008)",
+    "especial": ""
+  },
+  {
+    "articulo": "El evangelio según Kajdanovsky",
+    "autor": "Víctor Conenna",
+    "pagina": 7,
+    "pelicula": "El huésped (1987)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una historia crea otra historia",
+    "autor": "Darío Lavia",
+    "pagina": 10,
+    "pelicula": "El manuscrito encontrado en Zaragoza (1965)",
+    "especial": ""
+  },
+  {
+    "articulo": "Los ritos de la soledad",
+    "autor": "Darío Lavia",
+    "pagina": 13,
+    "pelicula": "Le Samouraï (1967)",
+    "especial": ""
+  },
+  {
+    "articulo": "¿Qué pensaría Borges? Una versión interminable de la historia de la viuda (y pirata) Ching",
+    "autor": "María Clara Lucifora",
+    "pagina": 16,
+    "pelicula": "Cantando dietro i paraventi (2003)",
+    "especial": ""
+  },
+  {
+    "articulo": "Lo mismo, pero distinto",
+    "autor": "Agustín Marangoni",
+    "pagina": 19,
+    "pelicula": "Variaciones 1/113 (2003)",
+    "especial": ""
+  },
+  {
+    "articulo": "Historia de una venganza",
+    "autor": "Daniel Nimes",
+    "pagina": 22,
+    "pelicula": "Hombre de la esquina rosada (1962)",
+    "especial": ""
+  },
+  {
+    "articulo": "La última caminata",
+    "autor": "Pablo Salido",
+    "pagina": 25,
+    "pelicula": "Haroldo Conti, Homo Viator (2008)",
+    "especial": ""
+  },
+  {
+    "articulo": "En el cine la literatura siempre es una fuente de inspiración",
+    "autor": "Victor Conenna",
+    "pagina": 27,
+    "pelicula": "Entrevista a Ernesto Flomembaum",
+    "especial": ""
+  }
+]
+}
