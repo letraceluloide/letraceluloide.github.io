@@ -34,7 +34,6 @@ const Footer = () => {
                                 <p>Coeditoras: Evelyn Blanco, Carla Tano, María Sofía Pérez Hospitaleche. </p>
                                 <p>Diseño web: Ignacio Casaburi.</p>
                                 <p>Desde Noviembre de 2007.</p>
-                                <p>Publicación bimestral de acceso libre y gratuito.</p>
                                 <p>ISSN Nº 1851-4855</p>
                                 </>                                )
     const lic = apartadoInit( "licencia",
