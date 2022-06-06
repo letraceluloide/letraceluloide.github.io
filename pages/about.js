@@ -19,13 +19,13 @@ const About = () => {
                     <div className="desktop_img">
                         <img src="/img/about.jpg"></img>
                     </div>
-                    <div className="desc"><p>Letraceluloide es una revista de cine y literatura fundada en Mar del Plata en el año 2007. Consiste en una publicación bimestral con ensayos de profesionales que trabajan en el campo de la cultura sobre películas basadas en textos literarios. Hasta el momento, cuenta con más de 60 números publicados.</p> 
-                    <p>Al staff de Letraceluloide lo conforman tres personas asociadas a la Universidad Nacional de Mar del Plata: Víctor Conenna (Magíster y Doctor en Letras, miembro de la cátedra de Literatura y cultura latinoamericanas), Franco Denápole (estudiante de la Tecnicatura en Comunicación Audiovisual) e Ignacio Girala (profesor de Filosofía, miembro de la catedra de Estética).
-                            </p></div>
+                    <div className="desc"><p>Letraceluloide es una revista de cine y literatura fundada en Mar del Plata en el año 2007. Consiste en una publicación bimestral con ensayos de profesionales que trabajan en el campo de la cultura sobre películas basadas en textos literarios. Hasta el momento, cuenta con más de 80 números publicados.</p>
+                    <p>Al staff de Letraceluloide lo conforman cinco personas asociadas a la Universidad Nacional de Mar del Plata: Víctor Conenna (Magíster y Doctor en Letras, miembro de la cátedra de Literatura y Cultura Latinoamericanas), Franco Denápole (crítico de cine y columnista en Funcinema Radio, estudiante de la Licenciatura en Letras), Evelyn Ayelén Blanco (Locutora Nacional de Radio y Televisión, estudiante de la Licenciatura en Letras), Carla Irina Tano (Estudiante del Profesorado en Letras) y Maria Sofia Perez H. (Estudiante del Profesorado en Letras, miembro del grupo de investigación en Teoría Literaria).</p>
+                    </div>
                 </div>
                 <div className="mobile_text"> <p>Director General: Víctor Conenna.</p>
                                             <p>Editor en jefe: Franco Denápole.</p>
-                                            <p>Corrector: Ignacio Girala.</p>
+                                            <p>Coeditoras: Evelyn Blanco, Carla Tano, María Sofía Pérez Hospitaleche. </p>
                                             <p>Diseño web: Ignacio Casaburi.</p>
                                             <p>Desde Noviembre de 2007.</p>
                                             <p>Publicación bimestral de acceso libre y gratuito.</p>
