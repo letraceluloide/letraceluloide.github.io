@@ -1,0 +1,63 @@
+{
+  "numero": "82",
+  "fecha":"Junio 2022",
+  "dropbox_pdf":"https://www.dropbox.com/s/qoatw46u7vh0uek/N%C3%BAmero%2082.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Una animada masacre en la Torre Eiffel",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 4,
+    "pelicula": "Les Mariés de la Tour Eiffel (1973)",
+    "especial": ""
+  },
+  {
+    "articulo": "Todos los robos el robo",
+    "autor": "Mex Faliero",
+    "pagina": 8,
+    "pelicula": "Un diamante al rojo vivo (1972)",
+    "especial": ""
+  },
+  {
+    "articulo": "Naked Lunch y un mundo de monstruos, de William Burroughs a David Cronenberg",
+    "autor": "Santiago Garat",
+    "pagina": 12,
+    "pelicula": "El almuerzo desnudo (1991)",
+    "especial": ""
+  },
+  {
+    "articulo": "¿Dónde está el amor?",
+    "autor": "Sofía González",
+    "pagina": 15,
+    "pelicula": "Orgullo y prejuicio (2005)",
+    "especial": ""
+  },
+  {
+    "articulo": "El culto a la carne: violencia y sexo en Rascacielos de J.G. Ballard y El rascacielos de Ben Wheatley",
+    "autor": "León López",
+    "pagina": 19,
+    "pelicula": "El rascacielos (2015)",
+    "especial": ""
+  },
+  {
+    "articulo": "Fragmentos del sueño de una nación",
+    "autor": "Florencia Mauna",
+    "pagina": 25,
+    "pelicula": "Sueño prohibido (2019)",
+    "especial": ""
+  },
+  {
+    "articulo": "Trece minutos de Ballard",
+    "autor": "Carla Irina Tano",
+    "pagina": 29,
+    "pelicula": "El gigante ahogado (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Cyrano a través del tiempo y del espacio",
+    "autor": "Franco Denápole y Emilia Pozzoni",
+    "pagina": 33,
+    "pelicula": "Cyrano Agency (2010) y Cyrano Mon Amour (2018)",
+    "especial": ""
+  }
+]
+}
