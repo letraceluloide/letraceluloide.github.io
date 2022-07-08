@@ -1,0 +1,49 @@
+{
+  "numero": "8",
+  "fecha":"Enero 2009",
+  "dropbox_pdf":"https://www.dropbox.com/s/ilpi8js4cgwj6la/N%C3%BAmero%208.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "¿Qué ves cuando me ves?",
+    "autor": "Richard Aiello",
+    "pagina": 4,
+    "pelicula": "Blow Up (1966)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un monstruo detrás de nuestras cabezas",
+    "autor": "Julián Ezquerra",
+    "pagina": 8,
+    "pelicula": "Film (1964)",
+    "especial": ""
+  },
+  {
+    "articulo": "Torsiones y distorsiones de la imagen. Cuando la transposición cinematográfica crea una nueva historia",
+    "autor": "María Clara Lucifora",
+    "pagina": 12,
+    "pelicula": "Beltenebros (1991)",
+    "especial": ""
+  },
+  {
+    "articulo": "Martín Fierro o una épica sentimental",
+    "autor": "Martín Pérez Calarco",
+    "pagina": 15,
+    "pelicula": "Martín Fierro, la película (2007)",
+    "especial": ""
+  },
+  {
+    "articulo": "Intensidad Brutal",
+    "autor": "Pablo Salido",
+    "pagina": 18,
+    "pelicula": "A Scanner Darkly (2006)",
+    "especial": ""
+  },
+  {
+    "articulo": "¡A la batalla, Borges!",
+    "autor": "Víctor Conenna",
+    "pagina": 21,
+    "pelicula": "Entrevista a José Luis Di Zeo",
+    "especial": ""
+  }
+]
+}
