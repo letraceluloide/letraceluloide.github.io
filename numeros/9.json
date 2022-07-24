@@ -1,0 +1,98 @@
+{
+  "numero": "9",
+  "fecha":"Marzo 2009",
+  "dropbox_pdf":"https://www.dropbox.com/s/um98xiw01qvscb0/N%C3%BAmero%209.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Ojos que no ven, oídos que no escuchan",
+    "autor": "Ricardo Aiello",
+    "pagina": 6,
+    "pelicula": "Otelo, el moro de Venecia (1952)",
+    "especial": ""
+  },
+  {
+    "articulo": "A pair of star-cross’d lovers take their life",
+    "autor": "María Inés Arrizabalaga",
+    "pagina": 10,
+    "pelicula": "Romeo + Julieta (1996)",
+    "especial": ""
+  },
+  {
+    "articulo": "Figuras",
+    "autor": "Rosalía Baltar",
+    "pagina": 14,
+    "pelicula": "Ran (1985)",
+    "especial": ""
+  },
+  {
+    "articulo": "Shakespeare apisonado",
+    "autor": "Abelardo Castillo",
+    "pagina": 17,
+    "pelicula": "Shakespeare apasionado (1998)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una furiosa tempestad",
+    "autor": "Gerardo N. Delvitto Brovedanni",
+    "pagina": 21,
+    "pelicula": "Enrique V (1989)",
+    "especial": ""
+  },
+  {
+    "articulo": "El maestro de 'Hannibal'",
+    "autor": "Marcelo De la Plaza",
+    "pagina": 25,
+    "pelicula": "Titus (1999)",
+    "especial": ""
+  },
+  {
+    "articulo": "Queremos tanto a Will: dos versiones de 'Ricardo III'",
+    "autor": "Juan Ariel Gómez",
+    "pagina": 29,
+    "pelicula": "Ricardo III (1995)",
+    "especial": ""
+  },
+  {
+    "articulo": "Engaños de la imaginación",
+    "autor": "Fabián O. Iriarte",
+    "pagina": 33,
+    "pelicula": "Sueño de una noche de verano (1999)",
+    "especial": ""
+  },
+  {
+    "articulo": "Travestización del príncipe",
+    "autor": "Darío Lavia",
+    "pagina": 38,
+    "pelicula": "Hamlet (1920)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una comedia trágica",
+    "autor": "María Clara Lucifora",
+    "pagina": 42,
+    "pelicula": "El mercader de Venecia (2004)",
+    "especial": ""
+  },
+  {
+    "articulo": "Innovadora en varios aspectos",
+    "autor": "Julio Neveleff",
+    "pagina": 45,
+    "pelicula": "El planeta prohibido (1956)",
+    "especial": ""
+  },
+  {
+    "articulo": "Historias de amor, locura y muerte",
+    "autor": "Daniel Nimes",
+    "pagina": 48,
+    "pelicula": "Macbeth (2006)",
+    "especial": ""
+  },
+  {
+    "articulo": "La teatralidad en la pantalla grande",
+    "autor": "Mayra Ortiz Rodríguez",
+    "pagina": 51,
+    "pelicula": "La fierecilla domada (1967)",
+    "especial": ""
+  }
+]
+}
