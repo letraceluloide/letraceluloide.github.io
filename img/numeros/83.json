@@ -1,0 +1,105 @@
+{
+  "numero": "83",
+  "fecha":"Agosto 2022",
+  "dropbox_pdf":"https://www.dropbox.com/s/1vs6pqgtwsd1cdd/N%C3%BAmero%2083%20-%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "El triunfo de lo patético",
+    "autor": "Ariel Alejandro Adera y Ramiro Casasola Lago",
+    "pagina": 5,
+    "pelicula": "Sobre la filmografía de Douglas Sirk",
+    "especial": ""
+  },
+  {
+    "articulo": "Tiburón, la sutil estética del peligro",
+    "autor": "Milagros Arla",
+    "pagina": 17,
+    "pelicula": "Tiburón (1975)",
+    "especial": ""
+  },
+  {
+    "articulo": "Descorrer el velo, quitarse la máscara",
+    "autor": "Adriana Beascoechea",
+    "pagina": 21,
+    "pelicula": "Al otro lado del mundo (2006)",
+    "especial": ""
+  },
+  {
+    "articulo": "Mito y su adaptación cinematográfica del 2015: Víctor Frankenstein",
+    "autor": "Camila Bentancur, Favio Dauría, Raquel Souto y Hefzibal Ramírez",
+    "pagina": 25,
+    "pelicula": "Victor Frankenstein (2015)",
+    "especial": ""
+  },
+  {
+    "articulo": "¿Sueñan los escritores con adaptaciones cinematográficas? Las pesadillas de Philip K. Dick",
+    "autor": "Juan Boldini",
+    "pagina": 30,
+    "pelicula": "Sobre las adaptaciones de las obras de Philip K. Dick",
+    "especial": ""
+  },
+  {
+    "articulo": "El absurdo como reflejo de la realidad: la naturalización de la inhumanidad",
+    "autor": "Luciana Cisneros",
+    "pagina": 36,
+    "pelicula": "Rhinoceros (1974)",
+    "especial": ""
+  },
+  {
+    "articulo": "La bella y la estrella",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 38,
+    "pelicula": "L’Etoile de mer (1928)",
+    "especial": ""
+  },
+  {
+    "articulo": "Dos casos de narrativa transmedia entre internet y los medios audiovisuales: el relato enmarcado de Lightyear y el misterio de “@disneypluses”",
+    "autor": "Emilia Pozzoni y Franco Denápole",
+    "pagina": 43,
+    "pelicula": "Only Murders in the Building (2021) y Lightyear (2022)",
+    "especial": ""
+  },
+  {
+    "articulo": "El anti-western",
+    "autor": "Mex Faliero",
+    "pagina": 53,
+    "pelicula": "A la hora señalada (1952)",
+    "especial": ""
+  },
+  {
+    "articulo": "Estados alterados: realidad o simulación en Total Recall de Paul Verhoeven",
+    "autor": "León López",
+    "pagina": 57,
+    "pelicula": "El vengador del futuro (1990)",
+    "especial": ""
+  },
+  {
+    "articulo": "Todas somos Kim Ji-Young",
+    "autor": "Florencia Mauna",
+    "pagina": 62,
+    "pelicula": "Kim Ji Young: Nacida en 1982 (2019)",
+    "especial": ""
+  },
+  {
+    "articulo": "9 Reinas: la apoteosis del guapo porteño",
+    "autor": "Juan Martín Salandro",
+    "pagina": 66,
+    "pelicula": "Nueve reinas (2000)",
+    "especial": ""
+  },
+  {
+    "articulo": "Aladín y la lámpara mágica: un relato insomne adaptado al Shangai del siglo XXI",
+    "autor": "Emilia Pozzoni",
+    "pagina": 71,
+    "pelicula": "El dragón de la tetera (2021)",
+    "especial": ""
+  },
+  {
+    "articulo": "Donde nos abren las puertas estamos",
+    "autor": "Mex Faliero",
+    "pagina": 76,
+    "pelicula": "Entrevista a José Celestino Campusano",
+    "especial": ""
+  }
+]
+}
