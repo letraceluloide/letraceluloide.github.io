@@ -1,0 +1,63 @@
+{
+  "numero": "11",
+  "fecha":"Julio 2009",
+  "dropbox_pdf":"https://www.dropbox.com/s/ns6s2tfavcghega/N%C3%BAmero%2011.%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "La miseria acosadora de todos los días",
+    "autor": "Milena Bracciale",
+    "pagina": 4,
+    "pelicula": "Juguete Rabioso (1984)",
+    "especial": ""
+  },
+  {
+    "articulo": "Sometimiento al deseo",
+    "autor": "Luciana Camaño",
+    "pagina": 8,
+    "pelicula": "El amante (1992)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un aroma que nos devolverá al principio",
+    "autor": "Martín Cid",
+    "pagina": 10,
+    "pelicula": "El perfume (2006)",
+    "especial": ""
+  },
+  {
+    "articulo": "Aterrados y confundidos",
+    "autor": "Víctor Conenna",
+    "pagina": 13,
+    "pelicula": "Babel (2006)",
+    "especial": ""
+  },
+  {
+    "articulo": "Evadiendo la censura",
+    "autor": "Darío Lavia",
+    "pagina": 17,
+    "pelicula": "Rampo (1994)",
+    "especial": ""
+  },
+  {
+    "articulo": "Short Cuts: de violencia y soledad",
+    "autor": "Paula Verónica Morguen",
+    "pagina": 20,
+    "pelicula": "Ciudad de ángeles (2003)",
+    "especial": ""
+  },
+  {
+    "articulo": "Poeversión y acrobacias de la mente alienada en pantalla",
+    "autor": "Julio Ángel Olivares Merino",
+    "pagina": 24,
+    "pelicula": "El gato negro (2007)",
+    "especial": ""
+  },
+  {
+    "articulo": "Acceso al mundo vedado",
+    "autor": "Elisa Pastoriza",
+    "pagina": 31,
+    "pelicula": "El lector (2008)",
+    "especial": ""
+  }
+]
+}
