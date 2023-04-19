@@ -1,7 +1,7 @@
 {
   "numero": "85",
   "fecha":"Marzo 2023",
-  "dropbox_pdf":"https://www.dropbox.com/s/k52r9u8a35nq40r/N%C3%BAmero%2085%20-%20Revista%20Letraceluloide.pdf",
+  "dropbox_pdf":"https://www.dropbox.com/s/qutvk63kn2seafp/N%C3%BAmero%2085%20-%20Revista%20Letraceluloide.pdf",
   "articulos": [
   {
     "articulo": "Matadero: capas de la historia en la historia",
@@ -11,93 +11,100 @@
     "especial": ""
   },
   {
+    "articulo": "El suplente: el lado más humano de la docencia",
+    "autor": "Milagros Arla",
+    "pagina": 11,
+    "pelicula": "El suplente (2022)",
+    "especial": ""
+  },
+  {
     "articulo": "La esencia de la vida",
     "autor": "Ramiro Cassasola Lago",
-    "pagina": 11,
+    "pagina": 15,
     "pelicula": "Local Hero (2022)",
     "especial": ""
   },
   {
     "articulo": "Retrato del estrés postraumático en Un año, una noche",
     "autor": "Victoria Gisele Chacón Oribe",
-    "pagina": 15,
+    "pagina": 19,
     "pelicula": "Un año, una noche (2022)",
     "especial": ""
   },
   {
     "articulo": "Adiós al hombre cine",
     "autor": "Laura Valeria Cozzo",
-    "pagina": 19,
+    "pagina": 23,
     "pelicula": "Au bout de soufle (1960)",
     "especial": ""
   },
   {
     "articulo": "La mujer insatisfecha",
     "autor": "Laura Valeria Cozzo",
-    "pagina": 23,
+    "pagina": 27,
     "pelicula": "La sonriente Madame Beudet (1923)",
     "especial": ""
   },
   {
     "articulo": "Saber mirar",
     "autor": "Mex Faliero",
-    "pagina": 27,
+    "pagina": 31,
     "pelicula": "Le petit Nicolas: Qu'est-ce qu'on attend pour être heureux? (2022)",
     "especial": ""
   },
   {
     "articulo": "Los vínculos que quedan",
     "autor": "Amaranta Gallego",
-    "pagina": 30,
+    "pagina": 34,
     "pelicula": "Te prometo una larga amistad (2022)",
     "especial": ""
   },
   {
     "articulo": "El tabú de las masas: el cine para una nueva generación",
     "autor": "León López",
-    "pagina": 34,
+    "pagina": 38,
     "pelicula": "Videodrome (1983)",
     "especial": ""
   },
   {
     "articulo": "Sangre, sudor y lágrimas... la bizarra apuesta de Proyect Wolf Hunting",
     "autor": "Florencia Mauna",
-    "pagina": 40,
+    "pagina": 44,
     "pelicula": "Proyect Wolf Hunting (2022)",
     "especial": ""
   },
   {
     "articulo": "Desgracia y política: La vida de Oharu de Kenji Mizoguchi",
     "autor": "Florencia Montenegro",
-    "pagina": 45,
+    "pagina": 49,
     "pelicula": "Saikaku ichidai onna (1952)",
     "especial": ""
   },
   {
     "articulo": "Entre el cielo y el infierno: representaciones de la vida queer en Anhell69, de Theo Montoya",
     "autor": "Matías Pardini",
-    "pagina": 49,
+    "pagina": 53,
     "pelicula": "Anhell69 (2022)",
     "especial": ""
   },
   {
     "articulo": "Nuevas derivaciones en la comedia argentina: Algo que pasó en año nuevo",
     "autor": "Emilia Pozzoni",
-    "pagina": 54,
+    "pagina": 58,
     "pelicula": "Algo que pasó en año nuevo (2022)",
     "especial": ""
   },
   {
     "articulo": "El prodigio: las vías purgativas de la razón y la fe",
     "autor": "Juan Salandro",
-    "pagina": 58,
+    "pagina": 62,
     "pelicula": "The Wonder (2022)",
     "especial": ""
   },
   {
     "articulo": "La vulnerabilidad vedada",
     "autor": "Carla Irina Tano",
-    "pagina": 63,
+    "pagina": 67,
     "pelicula": "Tres hermanos (2022)",
     "especial": ""
   }
