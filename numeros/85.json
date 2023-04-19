@@ -1,97 +1,105 @@
 {
   "numero": "85",
   "fecha":"Marzo 2023",
-  "dropbox_pdf":"https://www.dropbox.com/s/47a1inko729ws9u/N%C3%BAmero%2085%20-%20Revista%20Letraceluloide.pdf",
+  "dropbox_pdf":"https://www.dropbox.com/s/k52r9u8a35nq40r/N%C3%BAmero%2085%20-%20Revista%20Letraceluloide.pdf",
   "articulos": [
   {
     "articulo": "Matadero: capas de la historia en la historia",
     "autor": "Richard Aiello",
     "pagina": 6,
-    "pelicula": "Matadero",
+    "pelicula": "Matadero (2022)",
     "especial": ""
   },
   {
     "articulo": "La esencia de la vida",
     "autor": "Ramiro Cassasola Lago",
     "pagina": 11,
-    "pelicula": "Local Hero",
+    "pelicula": "Local Hero (2022)",
     "especial": ""
   },
   {
-    "articulo": "Retrato del estr s postraum tico en Un a o, una noche",
-    "autor": "Victoria Gisele Chac n Oribe",
+    "articulo": "Retrato del estrés postraumático en Un año, una noche",
+    "autor": "Victoria Gisele Chacón Oribe",
     "pagina": 15,
-    "pelicula": "Un a o, una noche",
+    "pelicula": "Un año, una noche (2022)",
     "especial": ""
   },
   {
-    "articulo": "Adi s al hombre cine",
+    "articulo": "Adiós al hombre cine",
     "autor": "Laura Valeria Cozzo",
     "pagina": 19,
-    "pelicula": "Au bout de soufle",
+    "pelicula": "Au bout de soufle (1960)",
     "especial": ""
   },
   {
     "articulo": "La mujer insatisfecha",
     "autor": "Laura Valeria Cozzo",
     "pagina": 23,
-    "pelicula": "La sonriente Madame Beudet",
+    "pelicula": "La sonriente Madame Beudet (1923)",
     "especial": ""
   },
   {
-    "articulo": "Los vinculos que quedan",
-    "autor": "Amaranta Gallego",
+    "articulo": "Saber mirar",
+    "autor": "Mex Faliero",
     "pagina": 27,
-    "pelicula": "Te prometo una larga amistad",
+    "pelicula": "Le petit Nicolas: Qu'est-ce qu'on attend pour être heureux? (2022)",
     "especial": ""
   },
   {
-    "articulo": "El tab  de las masas",
-    "autor": "Le n L pez",
-    "pagina": 31,
-    "pelicula": "Videodrome",
+    "articulo": "Los vínculos que quedan",
+    "autor": "Amaranta Gallego",
+    "pagina": 30,
+    "pelicula": "Te prometo una larga amistad (2022)",
     "especial": ""
   },
   {
-    "articulo": "Sangre, sudor y l grimas... la bizarra apuesta de Proyect Wolf Hunting",
+    "articulo": "El tabú de las masas: el cine para una nueva generación",
+    "autor": "León López",
+    "pagina": 34,
+    "pelicula": "Videodrome (1983)",
+    "especial": ""
+  },
+  {
+    "articulo": "Sangre, sudor y lágrimas... la bizarra apuesta de Proyect Wolf Hunting",
     "autor": "Florencia Mauna",
-    "pagina": 37,
-    "pelicula": "Project Wolf Hunting",
+    "pagina": 40,
+    "pelicula": "Proyect Wolf Hunting (2022)",
     "especial": ""
   },
   {
-    "articulo": "Desgracia y pol tica: La vida de Oharu de Kenji Mizoguchi",
+    "articulo": "Desgracia y política: La vida de Oharu de Kenji Mizoguchi",
     "autor": "Florencia Montenegro",
-    "pagina": 42,
-    "pelicula": "Saikaku ichidai onna",
+    "pagina": 45,
+    "pelicula": "Saikaku ichidai onna (1952)",
     "especial": ""
   },
   {
     "articulo": "Entre el cielo y el infierno: representaciones de la vida queer en Anhell69, de Theo Montoya",
-    "autor": "Mat as Pardini",
-    "pagina": 46,
-    "pelicula": "Anhell69",
+    "autor": "Matías Pardini",
+    "pagina": 49,
+    "pelicula": "Anhell69 (2022)",
     "especial": ""
   },
   {
-    "articulo": "Nuevas derivaciones en la comedia argentina: Algo que pas  en a o nuevo",
+    "articulo": "Nuevas derivaciones en la comedia argentina: Algo que pasó en año nuevo",
     "autor": "Emilia Pozzoni",
-    "pagina": 51,
-    "pelicula": "Algo que pas  en a o nuevo",
+    "pagina": 54,
+    "pelicula": "Algo que pasó en año nuevo (2022)",
     "especial": ""
   },
   {
-    "articulo": "El prodigio: las v as purgativas de la raz n y la fe",
+    "articulo": "El prodigio: las vías purgativas de la razón y la fe",
     "autor": "Juan Salandro",
-    "pagina": 55,
-    "pelicula": "The wonder",
+    "pagina": 58,
+    "pelicula": "The Wonder (2022)",
     "especial": ""
   },
   {
     "articulo": "La vulnerabilidad vedada",
     "autor": "Carla Irina Tano",
-    "pagina": 58,
-    "pelicula": "Tres hermanos",
+    "pagina": 63,
+    "pelicula": "Tres hermanos (2022)",
     "especial": ""
   }
 ]
+}
