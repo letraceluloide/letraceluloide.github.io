@@ -1,0 +1,97 @@
+{
+  "numero": "85",
+  "fecha":"Marzo 2023",
+  "dropbox_pdf":"https://www.dropbox.com/s/47a1inko729ws9u/N%C3%BAmero%2085%20-%20Revista%20Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Matadero: capas de la historia en la historia",
+    "autor": "Richard Aiello",
+    "pagina": 6,
+    "pelicula": "Matadero",
+    "especial": ""
+  },
+  {
+    "articulo": "La esencia de la vida",
+    "autor": "Ramiro Cassasola Lago",
+    "pagina": 11,
+    "pelicula": "Local Hero",
+    "especial": ""
+  },
+  {
+    "articulo": "Retrato del estr s postraum tico en Un a o, una noche",
+    "autor": "Victoria Gisele Chac n Oribe",
+    "pagina": 15,
+    "pelicula": "Un a o, una noche",
+    "especial": ""
+  },
+  {
+    "articulo": "Adi s al hombre cine",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 19,
+    "pelicula": "Au bout de soufle",
+    "especial": ""
+  },
+  {
+    "articulo": "La mujer insatisfecha",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 23,
+    "pelicula": "La sonriente Madame Beudet",
+    "especial": ""
+  },
+  {
+    "articulo": "Los vinculos que quedan",
+    "autor": "Amaranta Gallego",
+    "pagina": 27,
+    "pelicula": "Te prometo una larga amistad",
+    "especial": ""
+  },
+  {
+    "articulo": "El tab  de las masas",
+    "autor": "Le n L pez",
+    "pagina": 31,
+    "pelicula": "Videodrome",
+    "especial": ""
+  },
+  {
+    "articulo": "Sangre, sudor y l grimas... la bizarra apuesta de Proyect Wolf Hunting",
+    "autor": "Florencia Mauna",
+    "pagina": 37,
+    "pelicula": "Project Wolf Hunting",
+    "especial": ""
+  },
+  {
+    "articulo": "Desgracia y pol tica: La vida de Oharu de Kenji Mizoguchi",
+    "autor": "Florencia Montenegro",
+    "pagina": 42,
+    "pelicula": "Saikaku ichidai onna",
+    "especial": ""
+  },
+  {
+    "articulo": "Entre el cielo y el infierno: representaciones de la vida queer en Anhell69, de Theo Montoya",
+    "autor": "Mat as Pardini",
+    "pagina": 46,
+    "pelicula": "Anhell69",
+    "especial": ""
+  },
+  {
+    "articulo": "Nuevas derivaciones en la comedia argentina: Algo que pas  en a o nuevo",
+    "autor": "Emilia Pozzoni",
+    "pagina": 51,
+    "pelicula": "Algo que pas  en a o nuevo",
+    "especial": ""
+  },
+  {
+    "articulo": "El prodigio: las v as purgativas de la raz n y la fe",
+    "autor": "Juan Salandro",
+    "pagina": 55,
+    "pelicula": "The wonder",
+    "especial": ""
+  },
+  {
+    "articulo": "La vulnerabilidad vedada",
+    "autor": "Carla Irina Tano",
+    "pagina": 58,
+    "pelicula": "Tres hermanos",
+    "especial": ""
+  }
+]
