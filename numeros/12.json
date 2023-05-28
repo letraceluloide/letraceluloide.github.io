@@ -1,0 +1,110 @@
+{
+  "numero": "12",
+  "fecha":"Septiembre 2009",
+  "dropbox_pdf": "https://www.dropbox.com/s/sbzkvqtrlhbb6mi/N%C3%BAmero%2012.%20Revista%20Letraceluloide.pdf",
+  "articulos":[
+                {
+                  "articulo": "Sin luces de París ni de la falsa vida...",
+                  "autor": "Ricardo Aiello",
+                  "pagina": "6",
+		              "pelicula":"Disparen sobre el pianista (1960)"
+                },
+                {
+                  "articulo": "Hush Hush",
+                  "autor": "Rosalía Baltar",
+                  "pagina": "10",
+		              "pelicula":"Los ángeles al desnudo (1997)"
+                },
+                {
+                  "articulo": "El orden no quita el mérito",
+                  "autor": "Fernanda Bardi",
+                  "pagina": "13",
+		              "pelicula": "El secreto de sus ojos (2009)"
+                },
+                {
+                  "articulo": "Acto de justicia involuntaria. Una lectura cinematográfica de una paradojal historia policial",
+                  "autor": "Fernanda Bardi",
+                  "pagina": "17",
+		              "pelicula": "Luces rojas (2004)"
+                },
+                {
+                  "articulo": "Yo hice que los hombres dejaran de prever su fin",
+                  "autor": "Néstor Cremonte",
+                  "pagina": "20",
+		              "pelicula": "Últimos días de la víctima (1982)"
+                },
+                {
+                  "articulo": "El exceso del modelo",
+                  "autor": "Marcelo De la Plaza",
+                  "pagina": "23",
+		              "pelicula": "Crimen en el Expreso de Oriente (1974)"
+                },
+                {
+                  "articulo": "Un policial culturalista",
+                  "autor": "Marta B. Ferrari",
+                  "pagina": "27",
+		              "pelicula": "Los mares del sur (1992)"
+                },
+                {
+                  "articulo": "Tres versiones fílmicas del cuento Los Asesinos, de Ernest Hemingway",
+                  "autor": "Andrés Fevrier",
+                  "pagina": "31",
+		              "pelicula": ""
+                },
+                {
+                  "articulo": "Deduciendo con Holmes y Moriarty",
+                  "autor": "Darío Lavia",
+                  "pagina": "36",
+		              "pelicula": "Las aventuras de Sherlock Holmes (1939)"
+                },
+                {
+                  "articulo": "Cadáveres y conjeturas en las calles de París",
+                  "autor": "Rodrigo Montenegro",
+                  "pagina": "40",
+		              "pelicula": "El doble asesinato en la calle Morgue (1932)"
+                },
+                {
+                  "articulo": "Cuando Alex de la Iglesia y Enrique Iglesias son la misma persona",
+                  "autor": "Matías Moscardi",
+                  "pagina": "44",
+		              "pelicula": "Los crímenes de Oxford (2008)"
+                },
+                {
+                  "articulo": "Un juego amable e intrascendente de movimiento continuo",
+                  "autor": "Julio Neveleff",
+                  "pagina": "48",
+		              "pelicula": "El misterio del cuarto amarillo (2003)"
+                },
+                {
+                  "articulo": "La tensión llevada al límite",
+                  "autor": "Daniel Nimes",
+                  "pagina": "52",
+		              "pelicula": "Pacto siniestro (1951)"
+                },
+                {
+                  "articulo": "Una joya imperecedera",
+                  "autor": "Jesús Peña",
+                  "pagina": "55",
+		              "pelicula": "El halcón maltés (1941)"
+                },
+                {
+                  "articulo": "Adiós, muñeca (o un hombre que se anima)",
+                  "autor": "Martín Pérez Calarco",
+                  "pagina": "59",
+		              "pelicula": "Adiós, muñeca (1975)"
+                },
+                {
+                  "articulo": "Las pesadillas de un asesinato a distancia",
+                  "autor": "Esteban Prado",
+                  "pagina": "63",
+		              "pelicula": "Asesinato a distancia (1998)"
+                },
+                {
+                  "articulo": "Un misterio sin resolver",
+                  "autor": "Laura Lorena Utrera",
+                  "pagina": "67",
+		              "pelicula": "El nombre de la rosa (1986)"
+                }
+
+  ]
+}
