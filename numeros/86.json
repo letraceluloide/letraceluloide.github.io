@@ -1,0 +1,56 @@
+{
+  "numero": "86",
+  "fecha":"Septiembre 2023",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/xiryb47k4c1n32djeceus/N-mero-86.-Revista-Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Naufragios de Alvar Núñez Cabeza de Vaca: del diario al gran relato",
+    "autor": "Franco Denápole",
+    "pagina": 4,
+    "pelicula": "Cabeza de Vaca (1991)",
+    "especial": ""
+  },
+  {
+    "articulo": "Veneración y hermandad en la tierra noble, salvaje y sagrada",
+    "autor": "León López",
+    "pagina": 8,
+    "pelicula": "Danza con Lobos (1990)",
+    "especial": ""
+  },
+  {
+    "articulo": "El desafío discursivo de (re)construir Barbieland: algunos apuntes sobre Barbie de Greta Gerwig",
+    "autor": "Emilia Oriana Pozzoni",
+    "pagina": 14,
+    "pelicula": "Barbie (2023)",
+    "especial": ""
+  },
+  {
+    "articulo": "Y Dios creó al monstro y ala mujer: la narrativa queer de La Novia de Frankenstein",
+    "autor": "Victoria Roca Chamorro",
+    "pagina": 20,
+    "pelicula": "La novia de Frankenstein (1935)",
+    "especial": ""
+  },
+  {
+    "articulo": "Sobre cómo no todo es lo que parece",
+    "autor": "Paloma Souto",
+    "pagina": 25,
+    "pelicula": "El Autor (2017)",
+    "especial": ""
+  },
+  {
+    "articulo": "Distopías: la construcción de un futuro imposible",
+    "autor": "María Milagros Sweryd Bulyk",
+    "pagina": 30,
+    "pelicula": "Snowpiercer (2013) y El Hoyo (2019)",
+    "especial": ""
+  },
+  {
+    "articulo": "El recuerdo como tesoro de la mirada",
+    "autor": "Aldana Vilanucci",
+    "pagina": 36,
+    "pelicula": "Retrato de una mujer en llamas (2019)",
+    "especial": ""
+  }
+]
+}
