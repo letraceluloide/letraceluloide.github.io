@@ -1,0 +1,49 @@
+{
+  "numero": "88",
+  "fecha":"Marzo 2024",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/fizpvhlwktakgibqct3kq/N-mero-88-Revista-Letraceluloide.pdf",
+  "articulos": [
+  {
+    "articulo": "Orfeo Negro o el mito del eterno retorno",
+    "autor": "Martín Fernández de Azcárate",
+    "pagina": 5,
+    "pelicula": "Orfeo Negro (1959)",
+    "especial": ""
+  },
+  {
+    "articulo": "La eufórica y genuina sensualidad",
+    "autor": "Marcos León López",
+    "pagina": 11,
+    "pelicula": "Último tango en París (1972)",
+    "especial": ""
+  },
+  {
+    "articulo": "El ascenso del mesías de Arrakis",
+    "autor": "Gian Luca Spinelli",
+    "pagina": 17,
+    "pelicula": "Duna: Parte dos (2024)",
+    "especial": ""
+  },
+  {
+    "articulo": "El fin del mundo contigo: un relato nostálgico y fantaseoso",
+    "autor": "María Milagros Sweryd Bulyk",
+    "pagina": 23,
+    "pelicula": "The End of the World with You (2023)",
+    "especial": ""
+  },
+  {
+    "articulo": "La tierra de los cuentos de hadas: la construcción del mundo de Shrek",
+    "autor": "Camila Talou",
+    "pagina": 28,
+    "pelicula": "Shrek (2001)",
+    "especial": ""
+  },
+  {
+    "articulo": "Entre afiches y copas: el Cineclub Dynamo",
+    "autor": "Florencia Roncayoli",
+    "pagina": 32,
+    "pelicula": "",
+    "especial": ""
+  }
+]
+}
