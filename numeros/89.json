@@ -1,0 +1,35 @@
+{
+  "numero": "89",
+  "fecha":"Abril 2024",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/f8tanlz1anyqocajihd0p/N-mero-89-Revista-Letraceluloide.pdf?rlkey=mhmpm39p0hvrp4vd87hup6hvf&st=g1jbdh5l&dl=0",
+  "articulos": [
+  {
+    "articulo": "'No habrá más penas ni olvidos'. Un pedazo de historia argentina",
+    "autor": "Ricardo Arjona",
+    "pagina": 4,
+    "pelicula": "No habrá más penas ni olvido (1983)",
+    "especial": ""
+  },
+  {
+    "articulo": "Compasión por la paria",
+    "autor": "Milagros Arla",
+    "pagina": 9,
+    "pelicula": "La herencia de Flora (2024)",
+    "especial": ""
+  },
+  {
+    "articulo": "Sobre el olvido o que todo tiempo pasado fue mejor",
+    "autor": "Paloma Souto",
+    "pagina": 14,
+    "pelicula": "Medianoche en París",
+    "especial": ""
+  },
+  {
+    "articulo": "El peso de los secretos: amor, culpa y legado en 'Una pasión secreta'",
+    "autor": "Agustina Spadea",
+    "pagina": 19,
+    "pelicula": "Una pasión secreta (2008)",
+    "especial": ""
+  }
+]
+}
