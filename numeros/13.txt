@@ -1,0 +1,56 @@
+{
+  "numero": "13",
+  "fecha":"Noviembre 2009",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/wkvpck2ry6lp8o8bfvtm7/N-mero-13-Revista-Letraceluloide.pdf?rlkey=2qbycwbu6lui2t5fe5qcrates&st=u0ae32cr&dl=0",
+  "articulos": [
+  {
+    "articulo": "La memoria y la distancia",
+    "autor": "Juan Ariel Gómez",
+    "pagina": 5,
+    "pelicula": "Room and a Half (2009)",
+    "especial": ""
+  },
+  {
+    "articulo": "Cuando se acaba el amor",
+    "autor": "Darío Lavia",
+    "pagina": 8,
+    "pelicula": "El gato (1971)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una de Marlowe",
+    "autor": "Darío Lavia",
+    "pagina": 11,
+    "pelicula": "La dama del lago (1946)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un bebé con alitas",
+    "autor": "Darío Lavia",
+    "pagina": 14,
+    "pelicula": "Ricky (2009)",
+    "especial": ""
+  },
+  {
+    "articulo": "Los signos del discurso antagónico: Von Trier analiza la naturaleza del mal",
+    "autor": "Rodrigo Montenegro",
+    "pagina": 17,
+    "pelicula": "Anticristo (2009)",
+    "especial": ""
+  },
+  {
+    "articulo": "El delgado espesor de una puerta. 'La casa del diablo'",
+    "autor": "Matías Moscardi",
+    "pagina": 21,
+    "pelicula": "La casa del diablo (2009)",
+    "especial": ""
+  },
+  {
+    "articulo": "Job en los '60",
+    "autor": "Julio Neveleff",
+    "pagina": 25,
+    "pelicula": "Un hombre serio (2009)",
+    "especial": ""
+  }
+]
+}
