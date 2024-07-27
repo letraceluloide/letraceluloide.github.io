@@ -1,0 +1,49 @@
+{
+  "numero": "90",
+  "fecha":"Julio 2024",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/6n42fyt6744lb33wsvipo/N-mero-90-Revista-Letraceluloide.pdf?rlkey=rce83nt3ro0kvlw56wftyuste&st=y1m82ws2&dl=0",
+  "articulos": [
+  {
+    "articulo": "'El viento que arrasa' o... la muerte del padre",
+    "autor": "Richard Aiello",
+    "pagina": 4,
+    "pelicula": "El viento que arrasa (2023)",
+    "especial": ""
+  },
+  {
+    "articulo": "Unidos por un hilo (en manos de una titiritera vengativa)",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 9,
+    "pelicula": "Las damas del bosque de Bolonia",
+    "especial": ""
+  },
+  {
+    "articulo": "Poderoso caballero Don Dinero",
+    "autor": "Victoria Cúneo",
+    "pagina": 14,
+    "pelicula": "Sensatez y sentimientos (1995)",
+    "especial": ""
+  },
+  {
+    "articulo": "Entre la interacción y la expectación, o el espectador implicado",
+    "autor": "Franco Denápole",
+    "pagina": 19,
+    "pelicula": "El lobo de Wall Street (2013) y Horas de terror (1997)",
+    "especial": ""
+  },
+  {
+    "articulo": "La resaca de Norteamérica: la redención de los perdedores",
+    "autor": "León López",
+    "pagina": 23,
+    "pelicula": "Perdidos en la noche (1969)",
+    "especial": ""
+  },
+  {
+    "articulo": "",
+    "autor": "Víctor Conenna",
+    "pagina": 31,
+    "pelicula": "",
+    "especial": "Entrevista a Alfonso Rodríguez de Austria"
+  }
+]
+}
