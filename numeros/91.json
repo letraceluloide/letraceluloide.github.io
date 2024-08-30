@@ -1,0 +1,49 @@
+{
+  "numero": "91",
+  "fecha":"Agosto 2024",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/hjkhq4pssig9w5xr6pvhj/N-mero-91-Revista-Letraceluloide.pdf?rlkey=xa6eztzhh5mt0wq0sjy19o8yj&st=di8gagbo&dl=0",
+  "articulos": [
+  {
+    "articulo": "Las formas del mal o el arte de perturbar",
+    "autor": "Chiara Abiuso",
+    "pagina": 4,
+    "pelicula": "Nosferatu (1922) y Drácula (1931)",
+    "especial": ""
+  },
+  {
+    "articulo": "'1984': el amor como resistencia de un futuro (no tan) pesado",
+    "autor": "Leila Aedo",
+    "pagina": 9,
+    "pelicula": "",
+    "especial": ""
+  },
+  {
+    "articulo": "El 'kokoro' y los límites de lo humano",
+    "autor": "Florencia Montenegro",
+    "pagina": 14,
+    "pelicula": "Ghost in the Shell (1995)",
+    "especial": ""
+  },
+  {
+    "articulo": "En la espesura del duelo y el ritual",
+    "autor": "Marcos Ojea",
+    "pagina": 18,
+    "pelicula": "Starve Acre (2023)",
+    "especial": ""
+  },
+  {
+    "articulo": "El mal está a bordo: 'The Last Voyage of the Demeter'",
+    "autor": "Carla Irina Tano",
+    "pagina": 22,
+    "pelicula": "Drácula: Mar de Sangre (2023)",
+    "especial": ""
+  },
+  {
+    "articulo": "Las entrañas de la guerra",
+    "autor": "Sabrina Torres Stagnaro",
+    "pagina": 31,
+    "pelicula": "Una gran mujer (2019)",
+    "especial": ""
+  }
+]
+}
