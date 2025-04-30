@@ -1,0 +1,56 @@
+{
+  "numero": "93",
+  "fecha":"Abril 2025",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/fg6tezydpqrt60oc46lu1/N-mero-93-Revista-Letraceluloide.pdf?rlkey=9dc07qixvyx8fq3y1pq6027jv&st=jcfadpp3&dl=0",
+  "articulos": [
+  {
+    "articulo": "Terry conoce a Julie: arte y vida en 'Juliet, Naked'",
+    "autor": "Leila Aedo",
+    "pagina": 5,
+    "pelicula": "Juliet, Naked (2018)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una melodía distorsionada",
+    "autor": "Adriana Beascoechea",
+    "pagina": 10,
+    "pelicula": "Pantaleón y las visitadoras (1999)",
+    "especial": ""
+  },
+  {
+    "articulo": "El espejo surrealista del abuelo del cine experimental",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 15,
+    "pelicula": "8 x 8: A Chess Sonata in 8 Movements (1957)",
+    "especial": ""
+  },
+  {
+    "articulo": "Manuel Antín y La Cifra Impar",
+    "autor": "Carlo Mearilli",
+    "pagina": 20,
+    "pelicula": "La Cifra Impar (1962)",
+    "especial": ""
+  },
+  {
+    "articulo": "Tragedia y mito en 'Incendies': ecos de la tragedia griega en el cine contemporáneo",
+    "autor": "María Sofía Pérez Hospitaleche",
+    "pagina": 26,
+    "pelicula": "Incendies (2010)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un proyecto que encabalga el terror 'entre' dos siglos",
+    "autor": "Cecilia Secreto",
+    "pagina": 30,
+    "pelicula": "El Proyecto de la Bruja de Blair)",
+    "especial": ""
+  },
+  {
+    "articulo": "Backups, loops y gusanos: el cuerpo como campo de batalla en 'Mickey 17'",
+    "autor": "Gian Luca Spinelli",
+    "pagina": 35,
+    "pelicula": "Mickey 17 (2025)",
+    "especial": ""
+  }
+]
+}
