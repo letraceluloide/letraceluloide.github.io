@@ -1,0 +1,42 @@
+{
+  "numero": "94",
+  "fecha":"Agosto 2025",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/5deegldiuvv7fcy032vhp/N-mero-94-Revista-Letraceluloide.pdf?rlkey=52hy0bzz0rap99itbh2zgtrza&st=ntf8kxts&dl=0",
+  "articulos": [
+  {
+    "articulo": "El monstruo: un bicho, Lugones, la guerra",
+    "autor": "Mercedes Alonso",
+    "pagina": 15,
+    "pelicula": "El escuerzo (2023)",
+    "especial": ""
+  },
+  {
+    "articulo": "Jean Cocteau era un loco que corregía ",
+    "autor": "Mex Faliero",
+    "pagina": 16,
+    "pelicula": "Ruy Blas (1948)",
+    "especial": ""
+  },
+  {
+    "articulo": "Artaud, Carax: un siglo de insuficiencia",
+    "autor": "Martín Suárez Failache",
+    "pagina": 21,
+    "pelicula": "No soy yo (2024)",
+    "especial": ""
+  },
+  {
+    "articulo": "Tres reseñas breves",
+    "autor": "Cecilia Secreto",
+    "pagina": 26,
+    "pelicula": "Cien años de soledad (2024), Adolescencia (2025) y La chica de la aguja (2024)",
+    "especial": ""
+  },
+  {
+    "articulo": "La poesía cinematográfica: ¿un género? o el legado cinematográfico de Cocteau a través de su Trilogía Órfica",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 30,
+    "pelicula": "",
+    "especial": ""
+  }
+]
+}
