@@ -1,0 +1,56 @@
+{
+  "numero": "95",
+  "fecha":"Diciembre 2025",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/8rwpl7e9og0ic3vw1z5dn/N-mero-95-Revista-Letraceluloide.pdf?rlkey=cmt6nl4m1amnkq95s2in6w7r9&st=jewl5jor&dl=0",
+  "articulos": [
+  {
+    "articulo": "Un americano cabalga la nueva ola",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 6,
+    "pelicula": "Nouvelle Vague (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "El mar y el apartheid; inocencia y ocupación. Sobre El mar de Shai Carmeli-Pollak",
+    "autor": "María Sofía Pérez Hospitaleche",
+    "pagina": 11,
+    "pelicula": "El mar (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un fantasma servicial: absurdo y memoria",
+    "autor": "Estefanía Guillén",
+    "pagina": 15,
+    "pelicula": "An useful ghost (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "¿La fantasía como forma de resistencia: sobre Kiss of the Spider Woman de Bill Condon?",
+    "autor": "Giuliana Atenea Zelaya",
+    "pagina": 20,
+    "pelicula": "Kiss of the spider woman (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "Risa, la niña que sabe conmover",
+    "autor": "Mauro Vekselman",
+    "pagina": 24,
+    "pelicula": "Risa y la cabina del viento (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "Un poema de cuchilleros en el Chaco contemporáneo: sobre Dice que... de Alejandro Fernández Mouján",
+    "autor": "Lucila Langsam",
+    "pagina": 28,
+    "pelicula": "Dice que... (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "Mar del Plata era una fiesta: una crónica sobre los festivales",
+    "autor": "Julieta Baccaro",
+    "pagina": 32,
+    "pelicula": "",
+    "especial": ""
+   }
+]
+}
