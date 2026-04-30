@@ -1,0 +1,42 @@
+{
+  "numero": "96",
+  "fecha":"Abril 2026",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/h7bbeseloblnplp3735m4/N-mero-96-Revista-Letraceluloide.pdf?rlkey=hwwrpmkg6su50mk05566jpufg&st=ivn0yxwu&dl=0",
+  "articulos": [
+  {
+    "articulo": "Sacrificio, tragedia, ¿heroísmo? Una mirada crítica sobre la 'Final Girl' y el slasher desde Carrie",
+    "autor": "Leila Aedo",
+    "pagina": 4,
+    "pelicula": "Carrie (1976)",
+    "especial": ""
+  },
+  {
+    "articulo": "Civilización y barbarie: evolución del mito del hombre lobo en el arte del siglo XX",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 10,
+    "pelicula": "La maldición del hombre lobo (1961)",
+    "especial": ""
+  },
+  {
+    "articulo": "Emma de Flaubert, la fantasía reescrita por Sophie Barthes",
+    "autor": "Morena Larroquet",
+    "pagina": 16,
+    "pelicula": "Madame Bovary (2014)",
+    "especial": ""
+  },
+  {
+    "articulo": "La amistad y el jerk; el sueño y la ofrenda. Sobre Nemurubaka: Hypnic Jerks de Yugo Sakamoto",
+    "autor": "Nelson Quiroga y Gabriela González",
+    "pagina": 21,
+    "pelicula": "Nemurubaka: Hypnic Jerks (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "Las dos caras de un mismo rostro: conflicto e identidad en Phoenix y A Different Man",
+    "autor": "Maria Sofia Perez Hospitaleche e Ignacio Girala",
+    "pagina": 27,
+    "pelicula": "Phoenix (2014) y A Different Man (2024)",
+    "especial": ""
+  }
+]
+}
