@@ -1,0 +1,42 @@
+{
+  "numero": "97",
+  "fecha":"Junio 2026",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/62a0hi3gxm46g4ay8rbrz/N-mero-97-Revista-Letraceluloide.pdf?rlkey=flf9g6pusezczv6ux8bohyj3t&st=u8c4dtfu&dl=0",
+  "articulos": [
+  {
+    "articulo": "La constitución del espacio psíquico en Tristana, de Benito Pérez Galdós a Luis Buñuel",
+    "autor": "Sol Castañeiras",
+    "pagina": 4,
+    "pelicula": "Tristana (1970)",
+    "especial": ""
+  },
+  {
+    "articulo": "¿Quién le teme a estos padres no tan terribles?",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 8,
+    "pelicula": "Los padres terribles (2003)",
+    "especial": ""
+  },
+  {
+    "articulo": "’Y la primavera misma, cuando se despierte al amanecer, apenas sabrá que nos hemos ido’",
+    "autor": "Franco Denápole",
+    "pagina": 13,
+    "pelicula": "Vendrán lluvias suaves (1984 y 2018)",
+    "especial": ""
+  },
+  {
+    "articulo": "La re-escritura en el espacio cinematográfico almodovariano",
+    "autor": "Sofía González",
+    "pagina": 20,
+    "pelicula": "Dolor y Gloria (2019)",
+    "especial": ""
+  },
+  {
+    "articulo": "Poesía, memoria y libertad",
+    "autor": "Víctor Conenna",
+    "pagina": 26,
+    "pelicula": "",
+    "especial": "Conversación con Diego D’Angelo"
+   }
+]
+}
