@@ -1,0 +1,35 @@
+{
+  "numero": "98",
+  "fecha":"Septiembre 2026",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/rwgapozwuwpm4uh8e5xi8/N-mero-98-Revista-Letraceluloide.pdf?rlkey=zcwzazvoi6popkhf0a49hryy6&st=y7tkyk15&dl=0",
+  "articulos": [
+  {
+    "articulo": "Aftersun: el cine como suspensión del tiempo",
+    "autor": "Ángeles Rodolico",
+    "pagina": 4,
+    "pelicula": "Aftersun (2022)",
+    "especial": ""
+  },
+  {
+    "articulo": "Una bella infiel (y no me refiero a la princesa)",
+    "autor": "Laura Valeria Cozzo",
+    "pagina": 13,
+    "pelicula": "La Princesse de Clèves (1961)",
+    "especial": ""
+  },
+  {
+    "articulo": "Solo es una estúpida banalidad",
+    "autor": "León López",
+    "pagina": 18,
+    "pelicula": "American Psycho (2000)",
+    "especial": ""
+  },
+  {
+    "articulo": "Lost in Translation: hipnotizados por una distancia",
+    "autor": "Ángeles Rodolico",
+    "pagina": 24,
+    "pelicula": "Lost in Translation (2003)",
+    "especial": ""
+   }
+]
+}
