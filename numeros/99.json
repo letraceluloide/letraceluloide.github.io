@@ -1,0 +1,49 @@
+{
+  "numero": "99",
+  "fecha":"Octubre 2026",
+  "dropbox_pdf":"https://www.dropbox.com/scl/fi/btjj05sjtc6o8bwy30jhe/N-mero-99-Revista-Letraceluloide.pdf?rlkey=m5o71dbj40e7s8ms9cq1875qn&st=xc96pcfc&dl=0",
+  "articulos": [
+  {
+    "articulo": "Los Flamencos brillan en la noche: la ternura como lucha y la familia que se construye en 'La misteriosa mirada del flamenco'",
+    "autor": "Sofía Dasfignertein",
+    "pagina": 4,
+    "pelicula": "La misteriosa mirada del flamenco (2025)",
+    "especial": ""
+  },
+  {
+    "articulo": "Las dos 'Akiras' de Katsuhiro Otomo",
+    "autor": "Franco Denápole",
+    "pagina": 8,
+    "pelicula": "Akira (1988)",
+    "especial": ""
+  },
+  {
+    "articulo": "La seducción subliminal",
+    "autor": "León López",
+    "pagina": 14,
+    "pelicula": "Infidelidad (2002)",
+    "especial": ""
+  },
+  {
+    "articulo": "No hay poder sin dolor': notas sobre 'Electro Andes'",
+    "autor": "Florencia Montenegro",
+    "pagina": 20,
+    "pelicula": "Electro Andes (2026)",
+    "especial": ""
+  },
+  {
+    "articulo": "Esto no es una pala: 'Digger' y los límites de la representación",
+    "autor": "Giuliana Atenea Zelaya",
+    "pagina": 24,
+    "pelicula": "Digger (2026)",
+    "especial": ""
+  },
+  {
+    "articulo": "",
+    "autor": "Edgardo H. Berg y Nancy Fernández",
+    "pagina": 30,
+    "pelicula": "",
+    "especial": "Cine documental en el Cono Sur. Acerca de 'Lenguajes artísticos para reivindicar derechos. Un itinerario en el mundo hispanohablante' de Valentina Ripa"
+   }
+]
+}
